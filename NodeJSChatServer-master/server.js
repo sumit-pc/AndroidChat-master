@@ -65,8 +65,8 @@ app.post('/get/ip/address', function (req, res) {
 })
 
 
-server.listen(56455,()=>{
+server.listen(3000,()=>{
 
-console.log('Grievance Management System app is running on port 56455');
+console.log('A chat Application is running on 3000');
 
 });
